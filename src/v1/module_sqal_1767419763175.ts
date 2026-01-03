@@ -1,0 +1,1 @@
+const util_sqal = (d: any) => d;
